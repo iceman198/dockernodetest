@@ -1,0 +1,27 @@
+{
+  "name": "dockernodetest",
+  "version": "1.0.0",
+  "description": "just a test of using nodejs in a docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceman198/dockernodetest.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "docker"
+  ],
+  "author": "Sean Dutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iceman198/dockernodetest/issues"
+  },
+  "homepage": "https://github.com/iceman198/dockernodetest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
